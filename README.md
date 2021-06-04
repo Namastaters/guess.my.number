@@ -1,2 +1,2 @@
 # guess.my.number
-My first web game
+Guess my number between 1 - 20
